@@ -1,4 +1,4 @@
-module potato-api-sdk
+module github.com/sztu-ywy/potato-api-sdk
 
 go 1.24.5
 
